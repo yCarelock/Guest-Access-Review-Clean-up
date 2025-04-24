@@ -57,8 +57,8 @@ Result: a single review instance will spin up within ~15 minutes of 00:00 UTC on
 
 ![2025-04-24 19_20_11-My Access and 25 more pages - Personal - Microsoft​ Edge](https://github.com/user-attachments/assets/ac7ded86-e5f0-40cb-a561-fdfeff1fd297)
 
-I manully Denied the unattended guest in my access review.
+I manually Denied the unattended guest in my access review.
 
-I naviagated back to Entra to view access review detail results to view the denied user.
+I navigated back to Entra to view access review detail results to view the denied user.
 
 ![image](https://github.com/user-attachments/assets/9b2b629e-9869-4a3c-9faf-54173f144376)
