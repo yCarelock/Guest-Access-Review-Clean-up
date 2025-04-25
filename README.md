@@ -62,3 +62,5 @@ I manually Denied the unattended guest in my access review.
 I navigated back to Entra to view access review detail results to view the denied user.
 
 ![image](https://github.com/user-attachments/assets/9b2b629e-9869-4a3c-9faf-54173f144376)
+
+That’s the gist—one streamlined guest clean-up with automatic enforcement, and I verified the denied user in the results pane. Easy.
